@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tarunna</h1>
+<h1 align="center">Howdy Visitor 👋, I'm Tarunna</h1>
 <h3 align="center">A passionate Security Researcher from Bangladesh</h3>
 
-- 🔭 I’m currently working on my own Cryptocurrency on **Recipe**
+- 🔭 I’m currently working on my own Cryptocurrency project **Recipe**
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -11,19 +11,19 @@
 
 - 💬 Ask me about **Cyber Security, Programming language, Web3**
 
-- 📫 How to reach me **tarunnasen@gmail.com**
+- 📫 Reach me **tarunnasen@gmail.com**
 
 - ⚡ Fun fact **I am the Happiest Person Alive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tarunna-sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunna-sen" height="30" width="40" /></a>
-<a href="https://fb.com/tarunna.002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarunna.002" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/tarunna-sen](http://www.linkedin.com/in/tarunna-sen)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunna-sen" height="30" width="40" /></a>
+<a href="[https://fb.com/tarunna.002](https://web.facebook.com/tarunna.002)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarunna.002" height="30" width="40" /></a>
 <a href="https://instagram.com/ta_ru_nna_002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ta_ru_nna_002" height="30" width="40" /></a>
 <a href="https://dribbble.com/tarunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tarunna" height="30" width="40" /></a>
 <a href="https://www.behance.net/tarunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tarunna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tarunnasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tarunnasen" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/1116973913168171039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1116973913168171039" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/tarunnasen](https://youtube.com/@TarunnaSen)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tarunnasen" height="30" width="40" /></a>
+<a href="[https://discord.gg/https://discordapp.com/users/1116973913168171039](https://discordapp.com/users/1116973913168171039)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1116973913168171039" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
