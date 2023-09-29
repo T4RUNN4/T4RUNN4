@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/T4RUNN4](https://github.com/T4RUNN4)
 
-- 📝 I regularly write articles on [https://t4runn4.github.io/err0r.github.io](https://t4runn4.github.io/err0r.github.io))
+- 📝 I regularly write articles on [https://t4runn4.github.io/err0r.github.io](https://t4runn4.github.io/err0r.github.io)
 
 - 💬 Ask me about **Cyber Security, Programming language, Web3**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/tarunna.002](https://web.facebook.com/tarunna.002)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarunna.002" height="30" width="40" /></a>
+<a href="[https://fb.com/tarunna.002](https://web.facebook.com/tarunna.002)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarunna.002" height="30" width="40" /></a>
 <a href="[[https://www.instagram.com/tarunnasen/]](https://www.instagram.com/tarunnasen/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarunnasen" height="30" width="40" /></a>
 <a href="[https://linkedin.com/in/tarunna-sen](http://www.linkedin.com/in/tarunna-sen)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunna-sen" height="30" width="40" /></a>
 <a href="https://twitter.com/tarunnasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarunnasen" height="30" width="40" /></a>
