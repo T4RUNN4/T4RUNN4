@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/T4RUNN4](https://github.com/T4RUNN4)
 
-- 📝 I regularly write articles on [https://web.facebook.com/tarunna.002](https://web.facebook.com/tarunna.002)
+- 📝 I regularly write articles on [https://t4runn4.github.io/err0r.github.io](https://t4runn4.github.io/err0r.github.io))
 
 - 💬 Ask me about **Cyber Security, Programming language, Web3**
 
