@@ -1,9 +1,7 @@
 <h1 align="center">Howdy Visitor 👋, I'm Tarunna</h1>
 <h5 align="center">A passionate Security Researcher from Bangladesh</h5>
 
-- 🔭 I’m currently working on my own
-
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 Working on Self Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/T4RUNN4](https://github.com/T4RUNN4)
 
