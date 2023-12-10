@@ -6,7 +6,7 @@
 
 - 👨‍💻 Projects are available at [Github](https://github.com/T4RUNN4)
 
-- 📝 Articles are available at [Err0r](https://t4runn4.github.io/err0r.github.io)
+- 📝 Articles are available at [Red Pheonix](https://bit.ly/red_phoenix)
 
 - 💬 Ask me about **Cyber Security, Programming language, Web3**
 
