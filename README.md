@@ -17,12 +17,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://web.facebook.com/tarunna.002" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarunna.002" height="30" width="40"/> </a>
-<a href="https://www.instagram.com/tarunnasen/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarunnasen" height="30" width="40"/> </a>
-<a href="http://www.linkedin.com/in/tarunna-sen" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunna-sen" height="30" width="40"/> </a>
-<a href="https://twitter.com/tarunnasen" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarunnasen" height="30" width="40"/> </a>
-<a href="https://youtube.com/@TarunnaSen" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tarunnasen" height="30" width="40"/> </a>
-<a href="https://discordapp.com/users/1116973913168171039" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1116973913168171039" height="30" width="40"/> </a>
+<a href="https://bit.ly/red_phoenix" target="_blank"> <i class="fi fi-rr-add"></i> </a>
 </p>
 
 <br>
