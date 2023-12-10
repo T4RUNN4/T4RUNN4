@@ -17,7 +17,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://bit.ly/red_phoenix" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReA1ajGDa4vKE6OmfmIhAfdgLrZ4I_jw6fBVnWDNNDqQ&s"> </a>
+<a href="https://bit.ly/red_phoenix" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReA1ajGDa4vKE6OmfmIhAfdgLrZ4I_jw6fBVnWDNNDqQ&s" alt="bit.ly" width="40" height="40"> </a>
 </p>
 
 <br>
