@@ -1,5 +1,5 @@
 <h1 align="center">Howdy Visitor 👋, I'm Tarunna</h1>
-<h5 align="center">A Malware Forensic Analyst from Bangladesh</h5>
+<h5 align="center">A Security Analyst, Technophile & Learner from Bangladesh</h5>
 <br>
 
 - 🔭 Working on Self Development
