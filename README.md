@@ -1,12 +1,12 @@
-<h1 align="center">Howdy Visitor 👋, I'm Tarunna</h1>
-<h5 align="center">A Security Analyst, Technophile & Learner from Bangladesh</h5>
+<h1 align="center">Greetings and Welcome Visitor 👋, I'm Tarunna</h1>
+<h5 align="center">A CTF Player, Bug Bounty Hunter & Technophile from Bangladesh</h5>
 <br>
 
 - 🔭 Working on Self Development
 
-- 👨‍💻 Projects are available at [Github](https://github.com/T4RUNN4)
+- 👨‍💻 Write-ups are available at [Medium](https://medium.com/@tarunnasen)
 
-- 📝 Articles are available at [Red Pheonix](https://bit.ly/red_phoenix)
+- 📝 Articles are available at [Error](https://t4runn4.github.io/redphoenix.github.io/)
 
 - 💬 Ask me about **Cyber Security, Programming language, Web3**
 
@@ -17,7 +17,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://bit.ly/red_phoenix" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReA1ajGDa4vKE6OmfmIhAfdgLrZ4I_jw6fBVnWDNNDqQ&s" alt="bit.ly" width="40" height="40"> </a>
+<a href="https://bit.ly/m/tarunna-sen" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReA1ajGDa4vKE6OmfmIhAfdgLrZ4I_jw6fBVnWDNNDqQ&s" alt="bit.ly" width="40" height="40"> </a>
 </p>
 
 <br>
@@ -26,10 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </p>
 
 <br>
