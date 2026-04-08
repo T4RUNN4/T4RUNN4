@@ -1,51 +1,56 @@
-<h1 align="center">Hi 👋, I'm Tarunna Sen</h1>
-<h3 align="center">Frontend Developer passionate about making some thing creative</h3>
+<div id="name-and-role">
+  <img style="width: 100%;" src="./Tarunna Sen.png">
+  
+  </br>
+  </br>
+  </br>
+  
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary>
+        <h1 style="display: inline-block">Hello, I'm Tarunna Sen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+      </summary>
+       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&lines=A+web+developer+specialized+in+Frontend+&hearts;"></a>
+    </ul>
+  </div>
+</div>
 
-<br/>
+<hr>
+</br>
 
-- 💬 Ask me about **JavaScript, ReactJS, TailwindCSS, Firebase**
-- 📫 How to reach me **tarunnasen@gmail.com**
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h1 style="display: inline-block">About me</h1>
+    </summary>
+  </ul>
+  
+  <p>
+    I’m a <b>Frontend Developer</b> who enjoys turning ideas into clean, fast, and user-friendly web applications. I primarily work with <b>React</b>, <b> JavaScript </b>, and <b>Tailwind CSS</b>, focusing on building interfaces that are both performant and accessible. I enjoy solving problems, learning new technologies, and contributing to developer communities. Currently, I am open to <b>Frontend Developer</b> roles.</br></br>I feel comfortable while working with following techs:</br>
+    <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,js,tailwind,git,github,html,py,c" />
+    </a>
+  </p>
+  </p>
+</div>
+</br>
+Currently, I am working with the following projects: </br></br>
+- <b>TagForge</b>: An automated OpenGraph tags, robots.txt, and sitemap.xml, etc., generator</br>
+- <b>Invoice Generator</b>: A free and open-source invoice generator for individuals and businesses </br>
+- <b>I can see you</b>: A fingerprint generator that demonstrates how websites can track user even in incognito
+</br>
+<hr>
 
-- ⚡ Fun fact **The happiest person alive**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tarunna-sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunna-sen" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-</p>
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h1 style="display: inline-block">My socials</h1>
+    </summary>
+  </ul>
+  
+  <p>
+    <b>Email: </b><a href="mailto:tarunnasen@gmail.com">tarunnasen@gmail.com</a></br>
+    <b>LinkedIn: </b><a href="https://www.linkedin.com/in/tarunna-sen/">Tarunna Sen</a></br>
+  </p>
+</div>
