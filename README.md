@@ -29,7 +29,7 @@
     I’m a <b>Frontend Developer</b> who enjoys turning ideas into clean, fast, and user-friendly web applications. I primarily work with <b>React</b>, <b> JavaScript </b>, and <b>Tailwind CSS</b>, focusing on building interfaces that are both performant and accessible. I enjoy solving problems, learning new technologies, and contributing to developer communities. Currently, I am open to <b>Frontend Developer</b> roles.</br></br>I feel comfortable while working with following techs:</br>
     <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,tailwind,git,github,html,py,c" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,py,c" />
     </a>
   </p>
   </p>
