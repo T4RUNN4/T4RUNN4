@@ -50,6 +50,7 @@ Currently, I am working with the following projects: </br></br>
   </ul>
   
   <p>
+    <b>Portfolio: </b><a href="https://tarunna-sen.vercel.app/">https://tarunna-sen.vercel.app/</a></br>
     <b>Email: </b><a href="mailto:tarunnasen@gmail.com">tarunnasen@gmail.com</a></br>
     <b>LinkedIn: </b><a href="https://www.linkedin.com/in/tarunna-sen/">Tarunna Sen</a></br>
   </p>
